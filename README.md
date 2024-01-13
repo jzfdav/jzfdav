@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-*   🤝  I'm open to collaborating on interesting projects 📖
 -->
 
 Hi 👋 My name is Joseph 🤵‍♂️
@@ -29,10 +28,12 @@ Code Craftsman: A Decade of Crafting Code with Artistic Precision and Expertise 
 *   🧠  I'm currently learning React 🕸️ and Cassandra 📜
 *   💬  Ask me about Linux 🐧
 
-*   ⚡  Fun fact: I may not wear a cape, but I'm secretly a 🃏 superhero. Just don't spread the word too loudly, okay?
+
 <!-- 
+*   🤝  I'm open to collaborating on interesting projects 📖
 *   🖥️  See my portfolio at [Github](http://github.com/jzfdav/)
 *   ✉️  You can contact me at [sreenath.joseph@gmail.com](mailto:sreenath.joseph@gmail.com) 
+*   ⚡  Fun fact: I may not wear a cape, but I'm secretly a 🃏 superhero. Just don't spread the word too loudly, okay?
 -->
 
 ### Skills 
