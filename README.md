@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+*   🤝  I'm open to collaborating on interesting projects 📖
 -->
 
 Hi 👋 My name is Joseph 🤵‍♂️
@@ -27,7 +28,7 @@ Code Craftsman: A Decade of Crafting Code with Artistic Precision and Expertise 
 *   🚀  I'm currently working on [IBM Cloud Pak System](http://www.ibm.com/products/cloudpaksystem) ☁️
 *   🧠  I'm currently learning React 🕸️ and Cassandra 📜
 *   💬  Ask me about Linux 🐧
-*   🤝  I'm open to collaborating on interesting projects 📖
+
 *   ⚡  Fun fact: I may not wear a cape, but I'm secretly a 🃏 superhero. Just don't spread the word too loudly, okay?
 <!-- 
 *   🖥️  See my portfolio at [Github](http://github.com/jzfdav/)
