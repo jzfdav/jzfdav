@@ -35,6 +35,15 @@ Code Craftsman: A Decade of Crafting Code with Artistic Precision and Expertise 
 *   ⚡  Fun fact: I may not wear a cape, but I'm secretly a 🃏 superhero. Just don't spread the word too loudly, okay?
 -->
 
+### Published Projects
+- **[shrinkpic](https://github.com/jzfdav/shrinkpic)**: A lightweight, privacy-focused PWA to compress images offline.
+- **[fever-tracker](https://github.com/jzfdav/fever-tracker)**: A private, offline-first app to track fevers and medications.
+- **[intent-driven-project-template](https://github.com/jzfdav/intent-driven-project-template)**: A context-first template for AI-assisted software development.
+- **[cricfuzz](https://github.com/jzfdav/cricfuzz)**: Dynamic cricket simulation and data visualization tool.
+- **[jz](https://github.com/jzfdav/jz)**: A Go-based CLI utility for specialized analysis tasks.
+- **[office-simulator](https://github.com/jzfdav/office-simulator)**: An immersive workday simulation experience.
+- **[release-tracker-pwa](https://github.com/jzfdav/release-tracker-pwa)**: Progressive Web App for tracking software release cycles.
+
 ### Skills 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
