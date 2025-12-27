@@ -40,6 +40,7 @@ Code Craftsman: A Decade of Crafting Code with Artistic Precision and Expertise 
 - **[fever-tracker](https://github.com/jzfdav/fever-tracker)**: A private, offline-first app to track fevers and medications.
 - **[intent-driven-project-template](https://github.com/jzfdav/intent-driven-project-template)**: A context-first template for AI-assisted software development.
 - **[cricfuzz](https://github.com/jzfdav/cricfuzz)**: Dynamic cricket simulation and data visualization tool.
+- **[cric-live](https://jzfdav.github.io/cric-live/)**: Real-time cricket score tracker and match companion.
 - **[jz](https://github.com/jzfdav/jz)**: A Go-based CLI utility for specialized analysis tasks.
 - **[office-simulator](https://github.com/jzfdav/office-simulator)**: An immersive workday simulation experience.
 - **[release-tracker-pwa](https://github.com/jzfdav/release-tracker-pwa)**: Progressive Web App for tracking software release cycles.
