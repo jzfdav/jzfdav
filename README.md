@@ -46,10 +46,10 @@ Code Craftsman: A Decade of Crafting Code with Artistic Precision and Expertise 
 - **[jz](https://github.com/jzfdav/jz)**: A Go-based CLI utility for specialized analysis tasks.
 - **[release-tracker-pwa](https://github.com/jzfdav/release-tracker-pwa)**: Progressive Web App for tracking software release cycles.
 - **[calm-news-pwa](https://jzfdav.github.io/calm-news-pwa/)**: A personal, calm-first news reader built for clarity and intention.
+- **[RideTheBike](https://github.com/jzfdav/ride-the-bike)**: A gamified PWA to encourage frequent bike rides and maintain mechanical health.
  
 ### Upcoming Projects
 - **Charity Sale App**: A specialized tool designed for community-driven events like church Christmas sales.
-- **RideTheBike**: An upcoming cycling-focused application (currently refining core concepts).
 
 ### Skills 
 <p align="left">
