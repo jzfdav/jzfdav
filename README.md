@@ -37,7 +37,8 @@ Code Craftsman: A Decade of Crafting Code with Artistic Precision and Expertise 
 
 ### Published Projects
 - **[WorkRhythm](https://github.com/jzfdav/work-rhythm)**: A calm, passive, clock-like PWA built to help professionals transition back into the rhythm of workplace life.
-- **[CricFuzz](https://github.com/jzfdav/cricfuzz)**: A premium cricket match simulation engine built with TypeScript, Preact, and Tailwind CSS.
+- **[DopaMath](https://github.com/jzfdav/dopamath)**: A PWA designed to break the doom-scrolling loop with high-dopamine, rapid-fire math problems.
+- **[CricFuzz](https://github.com/jzfdav/cricfuzz)**: A premium cricket match simulation engine built with TypeScript, Preact, and Tailwind CSS. Experience realistic, ball-by-ball simulations across T20, ODI, and Test match formats.
 - **[shrinkpic](https://github.com/jzfdav/shrinkpic)**: A lightweight, privacy-focused PWA to compress images offline.
 - **[fever-tracker](https://github.com/jzfdav/fever-tracker)**: A private, offline-first app to track fevers and medications.
 - **[intent-driven-project-template](https://github.com/jzfdav/intent-driven-project-template)**: A context-first template for AI-assisted software development.
